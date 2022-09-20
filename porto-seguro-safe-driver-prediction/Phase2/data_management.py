@@ -6,12 +6,12 @@ from tabulate import tabulate
 
 def data_report(train,test,metadata,verbose = False):
     
-    fullset = pd.concat([train,test]).reset_index(drop=True).fillna('未知')
+    fullset = pd.concat([train,test]).reset_index(drop=True).fillna('unknown')
     
-    print(f"train总行数：{Fore.RED}{train.shape[0]}{Style.RESET_ALL} | test总行数：{Fore.BLUE}{test.shape[0]}{Style.RESET_ALL}")
-    print(f"train总列数：{Fore.RED}{train.shape[1]}{Style.RESET_ALL} | test总列数：{Fore.BLUE}{test.shape[1]}{Style.RESET_ALL}")
-    print(f"train总元素数：{train.size}")
-    print(f"test总元素数：{test.size}")
+    print(f"train count:{Fore.RED}{train.shape[0]}{Style.RESET_ALL} | test count:{Fore.BLUE}{test.shape[0]}{Style.RESET_ALL}")
+    print(f"train count:{Fore.RED}{train.shape[1]}{Style.RESET_ALL} | test count:{Fore.BLUE}{test.shape[1]}{Style.RESET_ALL}")
+    print(f"train total elements:{train.size}")
+    print(f"test total elements:{test.size}")
     print('-'*50+ f"{Fore.RED}INFO{Style.RESET_ALL}"  + '-'*50)
     print('【train info】')
     train.info(verbose = verbose)
