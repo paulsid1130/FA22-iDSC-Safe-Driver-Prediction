@@ -6,8 +6,6 @@
 
 #### The connection and difference of 5 types of variables
 
-- Link: http://xhslink.com/JOqPjg
-
 ![Enter image description](../../pic/measurement.png)
 
 #### Metadata Framework
