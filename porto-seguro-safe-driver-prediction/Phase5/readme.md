@@ -24,9 +24,6 @@ Original project link: https://www.kaggle.com/c/porto-seguro-safe-driver-predict
 - Supervised: Chi-square, minimum entropy 🆕
 - WOE/IV contribution 🆕
 
-
-![Enter image description](../../pic/data_discrete.png)
-
 ##### Data conversion
 
 - scaling
