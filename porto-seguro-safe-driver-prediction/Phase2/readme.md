@@ -1,4 +1,4 @@
-## 第二阶段 Metadata&Matplotlib
+## Phase2 Metadata&Matplotlib
 
 ![输入图片说明](../../pic/metadata.png)
 
