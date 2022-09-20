@@ -41,49 +41,16 @@
 
 #### 解决方案
 
-- 基于客户、公司、发展前景等层面提出项目解决方案
+- Propose project solutions based on customers, companies, development prospects, etc.
 
 <div align=center>
 <img src=../../pic/solution.png width='800' />
 </div>
 
-#### 项目可行性评估
+#### Fessibility Study
 
 <div align=center>
 <img src=../../pic/feasibility.png width='800' />
 </div>
 
- 
-### 💛阶段内容   
 
-- 直播：北京时间2022年4月3日（ **晚9:00 - 晚9:50** ）【上半场】 
-    1. 根据数据提出问题，头脑风暴
-    2. 从客户、公司、发展等层面确立项目商业目标、价值
-    3. 梳理项目的`description`、`Evaluation`
-
-- 直播：北京时间2022年4月3日（ **晚10:00 - 晚11:00** ）【下半场】
-    1. 梳理数据分析的5大流程步骤
-    2. 梳理数据分析面试常见问题
-    3. 梳理Numpy/Pandas学习路径 
-
-### 💚阶段周期
-
-
-- 4月1日至4月8日
-
-- 作业截止日期为北京时间4月7日晚上12点
-
-
-### 💙作业安排
-
-
-- 第一阶段项目notebook：Phase1
-- Numpy/Pandas作业 🆕
-- 英文专业词汇整理 🆕
-
-
-### 💜其他
-
-
-- 直播录屏会在直播后当天公布
-- 作业答案会在4月8日早上10点公布
